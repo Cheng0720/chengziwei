@@ -1,0 +1,11 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "My personal blog",
+  "scripts": {
+    "docs:build": "vitepress build docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
